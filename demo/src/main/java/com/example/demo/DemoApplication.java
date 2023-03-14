@@ -13,6 +13,9 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		String a = "12330";
+		String b = "1";
+		String c = "2";
+		String d = "3";
 	}
 
 }
