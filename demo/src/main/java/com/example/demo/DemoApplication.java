@@ -16,6 +16,7 @@ public class DemoApplication {
 		String b = "1";
 		String c = "2";
 		String d = "3";
+		String d1 = "31";
 	}
 
 }
